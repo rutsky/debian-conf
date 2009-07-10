@@ -1,0 +1,34 @@
+#deb http://ftp.funet.fi/pub/linux/mirrors/debian/ lenny main non-free contrib
+#deb-src http://ftp.funet.fi/pub/linux/mirrors/debian/ lenny main non-free contrib
+#deb http://ftp.funet.fi/pub/linux/mirrors/debian/ sid main non-free contrib
+
+#deb http://ftp.debian.org/debian stable main non-free contrib
+#deb-src http://ftp.debian.org/debian stable main non-free contrib
+
+#deb http://ftp.debian.org/debian testing main non-free contrib
+#deb-src http://ftp.debian.org/debian testing main non-free contrib
+
+#deb http://ftp.debian.org/debian unstable main non-free contrib
+#deb-src http://ftp.debian.org/debian unstable main non-free contrib
+
+#deb http://ftp.debian.org/debian/ experimental main non-free contrib
+#deb-src http://ftp.debian.org/debian/ experimental main non-free contrib
+
+#deb http://security.debian.org/ testing/updates main
+#deb-src http://security.debian.org/ testing/updates main
+
+deb http://deb-proxy:9999/debian stable main non-free contrib
+deb-src http://deb-proxy:9999/debian stable main non-free contrib
+
+deb http://deb-proxy:9999/debian testing main non-free contrib
+deb-src http://deb-proxy:9999/debian testing main non-free contrib
+
+deb http://deb-proxy:9999/debian unstable main non-free contrib
+deb-src http://deb-proxy:9999/debian unstable main non-free contrib
+
+deb http://deb-proxy:9999/debian/ experimental main non-free contrib
+deb-src http://deb-proxy:9999/debian/ experimental main non-free contrib
+
+deb http://deb-proxy:9999/security testing/updates main
+deb-src http://deb-proxy:9999/security testing/updates main
+

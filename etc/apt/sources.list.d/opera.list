@@ -1,0 +1,18 @@
+deb http://deb-proxy:9999/opera stable non-free
+
+# Opera Browser - Production release
+#deb http://deb.opera.com/opera/ potato non-free
+#deb http://deb.opera.com/opera/ woody non-free
+#deb http://deb.opera.com/opera/ sarge non-free
+#deb http://deb.opera.com/opera/ etch non-free
+#deb http://deb.opera.com/opera/ lenny non-free
+#  deb http://deb.opera.com/opera/ stable non-free
+#deb http://deb.opera.com/opera/ sid non-free
+
+# Opera Browser - Beta release
+#deb http://deb.opera.com/opera-beta/ potato non-free
+#deb http://deb.opera.com/opera-beta/ woody non-free
+#deb http://deb.opera.com/opera-beta/ sarge non-free
+#deb http://deb.opera.com/opera-beta/ etch non-free
+#  deb http://deb.opera.com/opera-beta/ lenny non-free
+#deb http://deb.opera.com/opera-beta/ sid non-free

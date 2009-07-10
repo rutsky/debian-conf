@@ -1,0 +1,23 @@
+Package: *
+Pin: origin
+Pin-Priority: 500
+
+Package: *
+Pin: origin wine.budgetdedicated.com
+Pin-Priority: 510
+
+Package: *
+Pin: release a=stable
+Pin-Priority: 495
+
+Package: *
+Pin: release a=unstable
+Pin-Priority: 497
+
+Package: *
+Pin: origin www.virtualbox.org
+Pin-Priority: 510
+
+Package: *
+Pin: release a=experimental
+Pin-Priority: 493
